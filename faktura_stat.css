@@ -1,0 +1,56 @@
+table	{
+	border-collapse: collapse;
+}
+
+td	{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+th	{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+body, td, th, h1, h2, h3, h4, h5, h6	{
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+pre	 {
+	margin: 0px;
+	font-family: monospace;
+}
+
+a:hover	{
+	text-decoration: underline;
+}
+
+h1	{
+	font-size: 150%;
+}
+
+h2	{
+	font-size: 125%;
+}
+
+#menu	{
+	background-color: #5894A2;
+	color: #fff;
+	padding: 2px 0px;
+
+}
+
+.headline	{
+	font-size: 150%;
+	font-weight: bold;
+	color: #5894A2;
+}
+
+.imgnoborder	{
+	border-style: none;
+}
+
+td.num	{
+	text-align: right;
+}
